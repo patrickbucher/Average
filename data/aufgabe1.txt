@@ -1,0 +1,6 @@
+﻿- Die Tests der Kategorie 1 (mean) haben funktioniert.
+
+- Die Tests der Kategorie 2 (median) mit einer geraden Anzahl von Zahlen hat nicht korrekt funktioniert.
+  -> Der Median von 1,2,3,4 war laut dem Programm 2 (was nicht korrekt ist -> 2.5)
+  
+- Die Tests der Kategorie 3 (mode) haben funktioniert.
